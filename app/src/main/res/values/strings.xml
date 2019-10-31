@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwitterSearchApplication</string>
+    <string name="tweet_search">Tweet Search</string>
+    <string name="hint_search_tweet">Search Tweet</string>
+    <string name="desc_search">Search</string>
+    <string name="no_tweets">No Tweets searched yet</string>
+    <string name="error_no_keyword">Enter a Keyword to search</string>
+    <string name="oops_something_went_wrong">Oops! Something went wrong.</string>
+    <string name="no_more_tweets">No more tweets</string>
+</resources>
