@@ -1,4 +1,4 @@
-package com.reckonsys.twittersearch.util
+package com.abc.twittersearch.util
 
 import android.app.Activity
 import android.view.View

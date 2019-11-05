@@ -1,10 +1,10 @@
-package com.reckonsys.twittersearch.viewmodel
+package com.abc.twittersearch.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.reckonsys.twittersearch.data.TweetSearch
-import com.reckonsys.twittersearch.repo.TweetRepo
+import com.abc.twittersearch.data.TweetSearch
+import com.abc.twittersearch.repo.TweetRepo
 
 class TwitterViewModel : ViewModel() {
 

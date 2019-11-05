@@ -1,4 +1,4 @@
-package com.reckonsys.twittersearch.data
+package com.abc.twittersearch.data
 
 import com.google.gson.annotations.SerializedName
 

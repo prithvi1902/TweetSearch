@@ -1,9 +1,9 @@
-package com.reckonsys.twittersearch.repo
+package com.abc.twittersearch.repo
 
 import androidx.lifecycle.MutableLiveData
-import com.reckonsys.twittersearch.data.TweetSearch
-import com.reckonsys.twittersearch.network.ApiClient
-import com.reckonsys.twittersearch.util.Constants
+import com.abc.twittersearch.data.TweetSearch
+import com.abc.twittersearch.network.ApiClient
+import com.abc.twittersearch.util.Constants
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

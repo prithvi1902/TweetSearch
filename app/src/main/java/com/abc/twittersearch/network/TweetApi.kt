@@ -1,6 +1,6 @@
-package com.reckonsys.twittersearch.network
+package com.abc.twittersearch.network
 
-import com.reckonsys.twittersearch.data.TweetSearch
+import com.abc.twittersearch.data.TweetSearch
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query

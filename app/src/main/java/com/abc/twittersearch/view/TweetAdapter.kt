@@ -1,11 +1,11 @@
-package com.reckonsys.twittersearch.view
+package com.abc.twittersearch.view
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import com.reckonsys.twittersearch.R
-import com.reckonsys.twittersearch.data.TweetSearch
+import com.abc.twittersearch.R
+import com.abc.twittersearch.data.TweetSearch
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.item_tweet_data.view.*
 

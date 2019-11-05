@@ -1,4 +1,4 @@
-package com.reckonsys.twittersearch.util
+package com.abc.twittersearch.util
 
 class Constants {
     class Api {

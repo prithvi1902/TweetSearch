@@ -1,4 +1,4 @@
-package com.reckonsys.twittersearch
+package com.abc.twittersearch
 
 import org.junit.Test
 

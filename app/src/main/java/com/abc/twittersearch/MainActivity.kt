@@ -1,4 +1,4 @@
-package com.reckonsys.twittersearch
+package com.abc.twittersearch
 
 import android.os.Bundle
 import android.text.TextUtils
@@ -9,11 +9,11 @@ import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.snackbar.Snackbar
-import com.reckonsys.twittersearch.data.TweetSearch
-import com.reckonsys.twittersearch.util.Constants
-import com.reckonsys.twittersearch.util.ViewUtil
-import com.reckonsys.twittersearch.view.TweetAdapter
-import com.reckonsys.twittersearch.viewmodel.TwitterViewModel
+import com.abc.twittersearch.data.TweetSearch
+import com.abc.twittersearch.util.Constants
+import com.abc.twittersearch.util.ViewUtil
+import com.abc.twittersearch.view.TweetAdapter
+import com.abc.twittersearch.viewmodel.TwitterViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

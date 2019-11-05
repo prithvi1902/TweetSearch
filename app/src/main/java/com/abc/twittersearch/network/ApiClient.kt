@@ -1,6 +1,6 @@
-package com.reckonsys.twittersearch.network
+package com.abc.twittersearch.network
 
-import com.reckonsys.twittersearch.util.Constants
+import com.abc.twittersearch.util.Constants
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
